@@ -1,3 +1,6 @@
-let age :number = 38
+let age :string = "38"
+let message :string = "My age is "
+let age2 :number = 25.6
+console.log(`${message} ${age}`)
 
-console.log(`My age is {age}`)
+console.log(`${age2}`)
