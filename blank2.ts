@@ -99,6 +99,6 @@ let System, __instantiate;
 })();
 
 "use strict";
-console.log("this is blank");
+console.log("this is blank3");
 
-__instantiate("blank", false);
+__instantiate("blank3", false);
