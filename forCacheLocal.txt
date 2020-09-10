@@ -1,0 +1,6 @@
+set $DENO_DIR ./lib (or line 2)
+export DENO_DIR=lib  <---- this is the one to use on ZSH shell
+deno cache app.ts (or whatever it is)
+
+
+for further research check out setting up environment variables for the command prompt
