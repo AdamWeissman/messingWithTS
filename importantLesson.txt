@@ -1,0 +1,1 @@
+use server side rendering if SEO is important!
