@@ -4,3 +4,7 @@ deno cache app.ts (or whatever it is)
 
 
 for further research check out setting up environment variables for the command prompt
+
+
+
+deno bundle 'mytsfile1.ts' 'mytsfile2.ts' 'bigfile.ts'
